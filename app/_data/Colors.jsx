@@ -1,65 +1,65 @@
 export default[
     {
         "name": "Let Us Select",
-        "colors":[
-            "#9c8185",
-            "#EB5A3C",
-            "#A6CDC6",
-            "#16404D",
-            "#C890A7"
+        "colors": [
+          "#ff5733",
+          "#33ff57",
+          "#3357ff",
+          "#ff33a8",
+          "#f4ff33"
         ]
+      },
+    {
+      "name": "Ocean Blues",
+      "colors": [
+        "#003f5c",
+        "#2f4b7c",
+        "#665191",
+        "#a05195",
+        "#d45087"
+      ]
     },
     {
-        "name": "Tropical Sunrise",
-        "colors": [
-            "#e12729",
-            "#f37324",
-            "#f8cc1b",
-            "#72b043",
-            "#007f4e"
-        ]
+      "name": "Sunset Warmth",
+      "colors": [
+        "#ff6f61",
+        "#ff8566",
+        "#ff9f6b",
+        "#ffb774",
+        "#ffd382"
+      ]
     },
     {
-        "name": "Moody Sunset",
-        "colors": [
-            "#003f5c",
-            "#58508d",
-            "#bc5090",
-            "#ff6361",
-            "#ffa600"
-        ]
+      "name": "Forest Greens",
+      "colors": [
+        "#2a6f4e",
+        "#3e8e68",
+        "#56a581",
+        "#70bd9b",
+        "#8fd6b5"
+      ]
     },
-     {
-        "name": "forest greens",
-        "colors": [
-            "#f29f05",
-            "#3eBe68",
-            "#a1887f",
-            "#d7ccc8",
-            "#003f5c"
-        ]
-     },
-     {
-        "name": "Soft Purples",
-        "colors": [
-            "#6a1b9a",
-            "#7b1fa2",
-            "#Be24aa",
-            "#9c27b0",
-            "#ab47bc"
-        ]
-     },
-     
     {
-        "name": "Clay and Sea",
-        "colors":[
-           "#c7522a",
-           "#e5c185",
-           "#fbf2c4",
-            "#74a892",
-            "#008585"
-
-        ]
+      "name": "Earthy Browns",
+      "colors": [
+        "#5d4037",
+        "#795548",
+        "#8d6e63",
+        "#a1887f",
+        "#d7ccc8"
+      ]
     },
-
+    {
+      "name": "Soft Purples",
+      "colors": [
+        "#6a1b9a",
+        "#7b1fa2",
+        "#8e24aa",
+        "#9c27b0",
+        "#ab47bc"
+      ]
+    },
+    
+  
+  
 ]
