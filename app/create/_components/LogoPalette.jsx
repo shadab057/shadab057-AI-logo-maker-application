@@ -4,15 +4,15 @@ import Lookup from '@/app/_data/Lookup'
 import Colors from '@/app/_data/Colors'
 
 
-function LogoPalette({onHandleInputChange}) {
+function LogoPalette({onHandleInputChange,formData}) {
 
-  const [selectedOption,setSelectedOption]=useState();
+  const [selectedOption,setSelectedOption]=useState(formData?.Palette);
 
   return (
     <div>
       <HeadingDescription
-      title={Lookup.LogocolorPaletteTitle}
-      description={Lookup.LogocolorPaletteDesc} />
+      title={Lookup.LogoColorPaletteTitle}
+      description={Lookup.LogoColorPaletteDesc} />
 
 <div className='grid grid-flow-col-2 md:grid-cols-3 gap-5 mt-5'>
       {Colors.map((Palette,index)=>(
